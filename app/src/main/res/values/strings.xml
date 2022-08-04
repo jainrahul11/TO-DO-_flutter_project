@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="add_task">New task</string>
+    <string name="made_by" translatable="false">Made by Ishank Dua</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="title_add_dial">New task</string>
+    <string name="save_add_dial">Add</string>
+    <string name="cancel_add_dial">Cancel</string>
+    <string name="error_add_dial">All fields must be filled</string>
+    <string name="success_add_dial">Task added</string>
+    <string name="deleted_edit_task">Task marked as done</string>
+    <string name="save_edit_dial">Save</string>
+    <string name="done_edit_dial" translatable="false">Done</string>
+    <string name="description">Long click on a task to edit it</string>
+</resources>
